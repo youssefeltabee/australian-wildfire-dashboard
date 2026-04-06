@@ -1,0 +1,158 @@
+{
+  "timestamp": "2026-04-04T12:33:54.638023",
+  "structure": {
+    ".": {
+      "files": [
+        {
+          "name": "advanced_airline_dashboard.py",
+          "extension": ".py",
+          "size": 14534
+        },
+        {
+          "name": "airline_data.csv",
+          "extension": ".csv",
+          "size": 9827502
+        },
+        {
+          "name": "CLAUDE.md",
+          "extension": ".md",
+          "size": 1030
+        },
+        {
+          "name": "Course_Notes.txt",
+          "extension": ".txt",
+          "size": 7571
+        },
+        {
+          "name": "dash_basics.py",
+          "extension": ".py",
+          "size": 2017
+        },
+        {
+          "name": "dash_interactivity.py",
+          "extension": ".py",
+          "size": 2142
+        },
+        {
+          "name": "dash_interactivity_barplot.py",
+          "extension": ".py",
+          "size": 1972
+        },
+        {
+          "name": "dash_test.py",
+          "extension": ".py",
+          "size": 0
+        },
+        {
+          "name": "Draft.ipynb",
+          "extension": ".ipynb",
+          "size": 2492
+        },
+        {
+          "name": "Practice_1.ipynb",
+          "extension": ".ipynb",
+          "size": 242517
+        },
+        {
+          "name": "Practice_2.ipynb",
+          "extension": ".ipynb",
+          "size": 511537
+        },
+        {
+          "name": "Practice_3.ipynb",
+          "extension": ".ipynb",
+          "size": 1461738
+        },
+        {
+          "name": "Practice_4.ipynb",
+          "extension": ".ipynb",
+          "size": 760850
+        },
+        {
+          "name": "Practice_5.ipynb",
+          "extension": ".ipynb",
+          "size": 1063821
+        },
+        {
+          "name": "Practice_6.ipynb",
+          "extension": ".ipynb",
+          "size": 3219238
+        },
+        {
+          "name": "Practice_7.ipynb",
+          "extension": ".ipynb",
+          "size": 572981
+        },
+        {
+          "name": "Practice_8.ipynb",
+          "extension": ".ipynb",
+          "size": 38093
+        },
+        {
+          "name": "Practice_9.ipynb",
+          "extension": ".ipynb",
+          "size": 32459038
+        }
+      ],
+      "dirs": [
+        ".opencode"
+      ]
+    },
+    ".opencode": {
+      "files": [],
+      "dirs": [
+        "memory"
+      ]
+    },
+    ".opencode\\memory": {
+      "files": [
+        {
+          "name": "INDEX.md",
+          "extension": ".md",
+          "size": 16
+        }
+      ],
+      "dirs": []
+    }
+  },
+  "technologies": {
+    "Python": 5
+  },
+  "patterns": {
+    "test_files": [
+      "dash_test.py"
+    ],
+    "config_files": [],
+    "api_routes": [],
+    "database_models": [],
+    "components": [],
+    "api_endpoints": []
+  },
+  "dependencies": {},
+  "complexity": {
+    "files": [
+      {
+        "path": "advanced_airline_dashboard.py",
+        "lines": 261
+      },
+      {
+        "path": "dash_interactivity_barplot.py",
+        "lines": 50
+      },
+      {
+        "path": "dash_interactivity.py",
+        "lines": 45
+      },
+      {
+        "path": "dash_basics.py",
+        "lines": 44
+      },
+      {
+        "path": "dash_test.py",
+        "lines": 0
+      }
+    ],
+    "total_lines": 400
+  },
+  "issues": []
+}
